@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋 I'm Washington Junior Panganai<br><br>## About Me<br><br>I'm a tech enthusiast and a people person with a love for all things computer related and keeping my programming skills up to date by creating projects.<br><br><br>:brain: Bachelors (hons) degree in computing<br><br>🌱 I’m currently learning:<br>  - Javascript<br>  - React<br>  - Django
+## Hi there 👋 I'm Washington Junior Panganai<br><br>About Me<br><br>I'm a tech enthusiast and a people person with a love for all things computer related and keeping my programming skills up to date by creating projects.<br><br><br>:brain: Bachelors (hons) degree in computing<br><br>🌱 I’m currently learning:<br>  - Javascript<br>  - React<br>  - Django
 
 
 ## 🌐 Socials:
